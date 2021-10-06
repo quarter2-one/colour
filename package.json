@@ -1,0 +1,21 @@
+{
+  "name": "colour",
+  "version": "1.0.0",
+  "description": "Add colour to your console, tangerine to your terminal.",
+  "main": "colour.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon test/test.js"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "console",
+    "terminal",
+    "bash"
+  ],
+  "author": "Richard J. Glanvill <thedecimalspace@gmail.com> (thedecimal.space)",
+  "license": "ISC"
+}
