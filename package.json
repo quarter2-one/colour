@@ -6,6 +6,10 @@
   "directories": {
     "test": "test"
   },
+  "homepage": "https://github.com/thedecimalspace/colour",
+  "bugs": {
+    "url": "https://github.com/thedecimalspace/colour/issues"
+  },
   "scripts": {
     "ex": "node examples/examples.js"
   },
@@ -14,7 +18,8 @@
     "colour",
     "console",
     "terminal",
-    "bash"
+    "bash",
+    "cli"
   ],
   "author": "Richard J. Glanvill <thedecimalspace@gmail.com> (thedecimal.space)",
   "license": "ISC"
