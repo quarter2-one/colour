@@ -1,13 +1,13 @@
 {
-  "name": "colour",
+  "name": "cmd-colour",
   "version": "1.0.0",
-  "description": "Add colour to your console, tangerine to your terminal.",
+  "description": "Add colour to your console/terminal.",
   "main": "colour.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "nodemon test/test.js"
+    "ex": "node examples/examples.js"
   },
   "keywords": [
     "color",
